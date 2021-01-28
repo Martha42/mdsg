@@ -1001,7 +1001,7 @@
         {
          "columns":16,
          "firstgid":2715,
-         "image":"C:\/Users\/peter\/Downloads\/structures_rc3-mullana-colors-128.png",
+         "image":"Bilder\/structures_rc3-mullana-colors-128.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -1014,7 +1014,7 @@
         {
          "columns":16,
          "firstgid":2843,
-         "image":"C:\/Users\/peter\/Downloads\/inventory_dk_space_station.png",
+         "image":"Bilder\/inventory_dk_space_station.png",
          "imageheight":160,
          "imagewidth":512,
          "margin":0,
@@ -1027,7 +1027,7 @@
         {
          "columns":16,
          "firstgid":2923,
-         "image":"C:\/Users\/peter\/Downloads\/structures_rc3-mullana-floor-wall.png",
+         "image":"Bilder\/structures_rc3-mullana-floor-wall.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1040,7 +1040,7 @@
         {
          "columns":7,
          "firstgid":3179,
-         "image":"C:\/Users\/peter\/Downloads\/deco_minideko.png",
+         "image":"Bilder\/deco_minideko.png",
          "imageheight":416,
          "imagewidth":224,
          "margin":0,
