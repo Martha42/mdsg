@@ -118,7 +118,7 @@
                  "value":"Oberhafenmeister"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":110,
          "x":0,
          "y":0
@@ -131,12 +131,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRaum",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"Hafenkai1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -172,7 +172,7 @@
                  "value":"Bauernhaus"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":110,
          "x":0,
          "y":0
