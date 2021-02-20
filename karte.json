@@ -82,7 +82,7 @@
                  "value":"Seeb\u00e4r"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
