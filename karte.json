@@ -115,10 +115,10 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Oberharfenmeister"
+                 "value":"Oberhafenmeister"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
