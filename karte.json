@@ -28,7 +28,7 @@
                  "value":"Hexenhaus"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -46,7 +46,7 @@
                  "value":"Herrenhaus"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -100,7 +100,7 @@
                  "value":"Hafenmeister"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -118,7 +118,7 @@
                  "value":"Oberhafenmeister"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -136,7 +136,7 @@
                  "value":"Wache"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
                  "value":"Kloster"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -172,7 +172,7 @@
                  "value":"H\u00e4ndler"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -190,7 +190,7 @@
                  "value":"Bauernhaus"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -208,7 +208,7 @@
                  "value":"Wahrsagerin"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -226,7 +226,7 @@
                  "value":"Bettler"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -244,7 +244,7 @@
                  "value":"Pfadfinder"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -262,7 +262,7 @@
                  "value":"Anfangsmeeting"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -292,7 +292,7 @@
                  "value":"Pirat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -304,7 +304,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -340,7 +340,7 @@
          "name":"W\u00e4nde oben",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -352,7 +352,7 @@
          "name":"Theaterraum",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -364,7 +364,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -376,7 +376,7 @@
          "name":"Details 1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -388,7 +388,7 @@
          "name":"Details 2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -400,7 +400,7 @@
          "name":"Details 3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -412,7 +412,7 @@
          "name":"book",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -424,7 +424,7 @@
          "name":"ordi",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -436,7 +436,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -453,7 +453,7 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
