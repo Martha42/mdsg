@@ -8,7 +8,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":50,
@@ -27,7 +28,7 @@
                  "value":"Spielerunde 1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -45,7 +46,7 @@
                  "value":"Spielerunde 2"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -63,7 +64,7 @@
                  "value":"Spielerunde 3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -81,7 +82,7 @@
                  "value":"Startmeeting"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -93,7 +94,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -105,7 +106,7 @@
          "name":"Lagerfeuerrunde",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -117,7 +118,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -141,7 +142,7 @@
          "name":"Gras",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -153,7 +154,7 @@
          "name":"Boden und Wanfarbe",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -165,7 +166,7 @@
          "name":"w\u00e4nde oben",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -189,7 +190,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -201,7 +202,7 @@
          "name":"tp 2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -213,7 +214,7 @@
          "name":"top3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -225,7 +226,7 @@
          "name":"top4",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -237,7 +238,7 @@
          "name":"book",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -249,7 +250,7 @@
          "name":"ordi",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -261,7 +262,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -278,7 +279,7 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
