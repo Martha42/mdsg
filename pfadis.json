@@ -93,6 +93,12 @@
          "id":50,
          "name":"Lagerfeuerrunde",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Lagerfeuerrunde"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":80,
