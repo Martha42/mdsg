@@ -21,6 +21,12 @@
          "id":11,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"start",
+                 "type":"string",
+                 "value":"start"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":80,
@@ -118,7 +124,7 @@
          "name":"Gras",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":80,
          "x":0,
          "y":0
