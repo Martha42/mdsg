@@ -8,7 +8,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":80,
@@ -129,7 +130,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -171,7 +172,7 @@
          "name":"Gras",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -183,7 +184,7 @@
          "name":"Boden und Wanfarbe",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -195,7 +196,7 @@
          "name":"W\u00e4nde oben",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -207,7 +208,7 @@
          "name":"Theaterraum",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -219,7 +220,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -231,7 +232,7 @@
          "name":"Details 1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -243,7 +244,7 @@
          "name":"Details 2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -255,7 +256,7 @@
          "name":"Details 3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
@@ -279,7 +280,7 @@
          "name":"ordi",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":110,
          "x":0,
          "y":0
